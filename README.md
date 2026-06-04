@@ -180,7 +180,6 @@ Across datasets and methods, you should expect:
 
 ---
 
-## License
-
-Add your license here (e.g., MIT/Apache-2.0) if you plan to publish the project.
+## Author
+- `Rathod AKash ISI-Bangalore 3year (Statistics & DataScience)`
 
